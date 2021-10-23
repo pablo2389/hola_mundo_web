@@ -13,7 +13,7 @@ En este repositorio encontraran un archivo index html el cual los ayudara a veri
   <h1>Hello world web!</h1>
   <h2>Coloque su nombre aquí</h2>
  ```
-y lo pegaremos entre las etiquetas <body></body>  (el cuerpo de nuestro HTML)<br>
+y lo pegaremos entre las etiquetas ```<body></body>```  (el cuerpo de nuestro HTML)<br>
 4- Guardaremos los cambios y posteriormente pulsaremos en la parte inferior derecha donde dice: "Go Live", de esta manera se nos debería abrir el navegador con nuestra página web<br>
 5- Finalmente tomaremos una captura de pantalla del editor de código (Visual Studio Code) y de nuestra página web, para posteriormente subirla al campus<br>
 
