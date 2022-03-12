@@ -9,7 +9,7 @@ En este repositorio encontraran un archivo index html el cual los ayudara a veri
 1- Abrir el archivo index.html con nuestro editor de código (Visual Studio Code) <br>
 2- Copiaremos el siguiente código: 
 ```
-  <h1>Hello world web!</h1>
+  <h1>Hola mundo web!</h1>
   <h2>Coloque su nombre aquí</h2>
  ```
 4- Guardaremos los cambios y posteriormente y posteriormente abrimos el archivo index.html con doble click.
