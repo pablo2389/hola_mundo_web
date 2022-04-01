@@ -12,12 +12,11 @@ En este repositorio encontraran un archivo index html el cual los ayudara a veri
   <h1>Hola mundo web!</h1>
   <h2>Coloque su nombre aquí</h2>
  ```
-4- Guardaremos los cambios y posteriormente y posteriormente abrimos el archivo index.html con doble click.\
-5- Finalmente tomaremos una captura de pantalla del editor de código (Visual Studio Code) y de nuestra página web, para posteriormente subirla al campus\
+4- Guardaremos los cambios y posteriormente abrimos el archivo index.html con doble click.\
+5- Finalmente tomaremos una captura de pantalla del editor de código (Visual Studio Code) y de nuestra página web, para posteriormente subirla al campus.
 
 Ayudas:\
-          -Para tomar captura de pantalla en Windows, podemos presionar el botón de Windows y buscar "Recortes", este es un programa que viene integrado el cual nos puede permitir tomar capturas de pantalla<br>
-          -Para escribir el signo de exclamación en el teclado (con el idioma en inglés), debemos presionar SHIFT + 1
+-Para tomar captura de pantalla en Windows, podemos presionar el botón de Windows y buscar "Recortes", este es un programa que viene integrado el cual nos puede permitir tomar capturas de pantalla.
 
 # Consultas
 alumnos@inove.com.ar
