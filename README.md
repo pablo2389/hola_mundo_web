@@ -3,6 +3,10 @@ Inove Escuela de Código\
 info@inove.com.ar\
 Web: [Inove](http://inove.com.ar)
 
+__Ejemplos que el profesor mostrará en clase__\
+ejemplos_clase/
+
+
 # ¡Hola mundo! [Web]
 En este repositorio encontraran un archivo index html el cual los ayudara a verificar que su entorno se encuentra bien instalado y configurado. Para verificar que todo esta en orden, seguiremos los proximos pasos:
 
